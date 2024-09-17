@@ -1,7 +1,7 @@
 databaseChangeLog:
   - changeSet:
       id: Create order table
-      author: Mahammad Gasimli
+      author: Nubar Rasulova
       changes:
         - createTable:
             tableName: orders

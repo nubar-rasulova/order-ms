@@ -5,7 +5,7 @@ spring:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/ms-orders
     username: postgres
-    password: 12345
+    password: 1234
   # JPA properties
   jpa:
     show_sql: true
